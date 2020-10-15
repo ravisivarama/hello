@@ -12,5 +12,5 @@ For Unix use `./mvnw spring-boot:run`
 
 For Windows `mvnw.cmd spring-boot:run`
 
-Visit localhost:8383/hello or localhost:8383/hello/name-input-here
+Visit `localhost:8383/hello` or `localhost:8383/hello/name-input-here`
 
