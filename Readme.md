@@ -10,5 +10,5 @@ Pre-Requisites
 #### Without Maven Installed
 `./mvnw spring-boot:run`
 
-Visit localhost:8383/hello or localhost:8383/hello/<name input here>
+Visit localhost:8383/hello or localhost:8383/hello/name-input-here
 
